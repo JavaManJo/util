@@ -6,8 +6,6 @@ package com.zpq.web.common;
  *
  */
 public interface LogicCode {
-
-
 	/** 成功 */
 	int success = 0;
 	
